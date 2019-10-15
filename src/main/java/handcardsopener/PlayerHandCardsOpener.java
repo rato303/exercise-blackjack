@@ -1,4 +1,4 @@
-package handcardsopener;getSum
+package handcardsopener;
 
 import card.Card;
 
